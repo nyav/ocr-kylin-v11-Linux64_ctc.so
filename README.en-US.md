@@ -95,15 +95,6 @@ Fixed-scope modules are typically delivered in **1–2 weeks**. Tightly scoped P
 
 ---
 
-## Links
-
-**NingYi AI · 凝逸Ai**
-
-- GitHub — [github.com/nyav](https://github.com/nyav)
-- Public benchmark video (Kylin V11 + RTX 3060, 302 images/sec) — [bilibili.com/video/BV16EpW6oEdd](https://www.bilibili.com/video/BV16EpW6oEdd/)
-
----
-
 ## About this repository
 
 > This repository is a **showcase of measured results and on-device screenshots only**.
